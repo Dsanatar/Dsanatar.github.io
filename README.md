@@ -1,1 +1,3 @@
-# Daniel Sanatar's Personal Website
+# Welcome to my Personal Website repo
+
+https://dsanatar.github.io/
