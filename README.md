@@ -1,3 +1,3 @@
-# Welcome to my Personal Website repo
+# Welcome to my Personal Website
 
 https://dsanatar.github.io/
